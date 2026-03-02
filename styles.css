@@ -1,5 +1,5 @@
 .spinner {
-    /* Your styling */
+    color: cornflowerblue;
     animation: spin 1s linear infinite; /* Required */
 }
 
@@ -14,7 +14,7 @@
     width: fit-content !important;
     height: fit-content !important;
     margin-top: 10px;
-    justify-content: center;
+    margin: 20px auto;
 }
 
 .border-grid {
