@@ -10,12 +10,12 @@
 
 .country-card {
     background-color: rgba(169, 169, 169, 0.486);
-    padding: 10px 5px 10px 5px;
-    width: fit-content;
+    padding: 10px;
+    max-width: 300px;
 }
 
 .border-grid {
-    display: grid;
+    display: flex;
 }
 
 .error {
