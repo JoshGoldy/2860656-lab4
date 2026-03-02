@@ -24,3 +24,14 @@
 .hidden {
     display: none;
 }
+
+#country-info img {
+    width: 200px;   /* adjust as needed */
+    height: auto;   /* keeps proportions correct */
+    margin-top: 10px;
+}
+
+.border-card img {
+    width: 80px;   /* smaller for grid */
+    height: auto;
+}
