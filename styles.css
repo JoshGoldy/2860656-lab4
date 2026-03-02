@@ -26,12 +26,11 @@
 }
 
 #country-info img {
-    width: 200px;   /* adjust as needed */
-    height: auto;   /* keeps proportions correct */
-    margin-top: 10px;
+  width: 200px !important;
+  height: auto !important;
 }
 
-.border-card img {
-    width: 80px;   /* smaller for grid */
-    height: auto;
+#bordering-countries img {
+  width: 80px !important;
+  height: auto !important;
 }
