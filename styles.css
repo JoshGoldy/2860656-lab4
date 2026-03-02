@@ -14,13 +14,14 @@
     width: fit-content !important;
     height: fit-content !important;
     margin-top: 10px;
+    justify-content: center;
 }
 
 .border-grid {
     display: flex;
     gap: 15px;              
     flex-wrap: wrap;        
-    justify-content: left; 
+    justify-content: center; 
 }
 
 .error {
