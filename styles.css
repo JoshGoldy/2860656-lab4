@@ -1,1 +1,26 @@
-styles.css
+.spinner {
+    /* Your styling */
+    animation: spin 1s linear infinite; /* Required */
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.country-card {
+    background-color: darkgray;
+    padding: 10px 5px 10px 5px;
+}
+
+.border-grid {
+    display: grid;
+}
+
+.error {
+    color: crimson;
+}
+
+.hidden {
+    display: none;
+}
